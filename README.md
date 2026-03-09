@@ -1,5 +1,7 @@
 # 🔥 RedFlow | Premium SaaS Landing Page Template
 
+**Live Demo:** [https://redflow-portfolio.netlify.app](https://redflow-portfolio.netlify.app)
+
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-redflow-portfolio.netlify.app-orange?style=for-the-badge)](https://redflow-portfolio.netlify.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -98,7 +100,7 @@ RedFlow is a Premium SaaS landing page template with dark theme, vibrant orange 
 
 ## Environment Variables (For Netlify Deployment)
 
-To keep sensitive data like API keys, database passwords, and secret tokens secure, use Netlify's environment variables. **Sensitive data is NEVER exposed in frontend code** - variables are injected at build time only.
+To keep sensitive data like API keys, database passwords, and secret tokens secure, use Netlify's environment variables. **Sensitive data is NEVER exposed in frontend code** - variables are injected at build time.
 
 ### Adding Environment Variables in Netlify:
 
@@ -140,4 +142,3 @@ MIT License - Free to use for personal and commercial projects.
 ---
 
 Made with ❤️ for SaaS founders
-
