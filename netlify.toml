@@ -1,0 +1,15 @@
+[build]
+  command = "node build-env.js"
+  publish = "."
+
+[build.environment]
+  # Set your environment variables in Netlify Dashboard
+  # Site settings > Environment variables
+  # These will be injected during build process
+
+# Redirect for single-page application (if needed)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
