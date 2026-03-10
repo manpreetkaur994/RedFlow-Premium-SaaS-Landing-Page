@@ -1,12 +1,11 @@
 # 🔥 RedFlow | Premium SaaS Landing Page Template
 
-**Live Demo:** [https://redflow-portfolio.netlify.app](https://redflow-portfolio.netlify.app)
+🔗 **Live Demo:** https://redflow-portfolio.netlify.app
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-redflow-portfolio.netlify.app-orange?style=for-the-badge)](https://redflow-portfolio.netlify.app)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
 
 ![Project Preview](./images/started.png)
 
@@ -82,14 +81,8 @@ RedFlow is a Premium SaaS landing page template with dark theme, vibrant orange 
 
 ## Screenshots
 
-### Hero Section
-![Hero](./images/hero.png)
-
-### Pricing Section
-![Pricing](./images/pricing.png)
-
-### Full Page
-![Full Page](./images/fullpage.png)
+### Project Preview
+![Project Preview](./images/started.png)
 
 ## Quick Start
 
@@ -100,7 +93,7 @@ RedFlow is a Premium SaaS landing page template with dark theme, vibrant orange 
 
 ## Environment Variables (For Netlify Deployment)
 
-To keep sensitive data like API keys, database passwords, and secret tokens secure, use Netlify's environment variables. **Sensitive data is NEVER exposed in frontend code** - variables are injected at build time.
+To keep sensitive data like API keys, database passwords, and secret tokens secure, use Netlify's environment variables. **Sensitive data is NEVER exposed in frontend code** - variables are injected at build time only.
 
 ### Adding Environment Variables in Netlify:
 
@@ -138,6 +131,11 @@ const token = CONFIG.SECRET_TOKEN;
 ## License
 
 MIT License - Free to use for personal and commercial projects.
+
+---
+
+Made with ❤️ for SaaS founders
+
 
 ---
 
