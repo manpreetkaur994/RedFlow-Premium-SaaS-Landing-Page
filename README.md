@@ -82,7 +82,22 @@ RedFlow is a Premium SaaS landing page template with dark theme, vibrant orange 
 ## Screenshots
 
 ### Project Preview
-![Project Preview](./images/started.png)
+![Project Preview](./.vscode/images/started.png)
+
+### Features
+![Features](./.vscode/images/Features.png)
+
+### Pricing
+![Pricing](./.vscode/images/Pricing.png)
+
+### Reviews
+![Reviews](./.vscode/images/Reviews.png)
+
+### Get Started
+![Get Started](./.vscode/images/Get%20Started.png)
+
+### Blogs
+![Blogs](./.vscode/images/Blogs.png)
 
 ## Quick Start
 
@@ -136,7 +151,3 @@ MIT License - Free to use for personal and commercial projects.
 
 Made with ❤️ for SaaS founders
 
-
----
-
-Made with ❤️ for SaaS founders
