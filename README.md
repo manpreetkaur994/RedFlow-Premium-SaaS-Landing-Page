@@ -284,25 +284,6 @@ Made with ❤️ for SaaS founders
 - **Responsive Design** - Mobile-friendly
 - **Netlify Deployment** - Easy hosting
 
-## Screenshots
-
-### Project Preview
-![Project Preview](./.vscode/images/started.png)
-
-### Features
-![Features](./.vscode/images/Features.png)
-
-### Pricing
-![Pricing](./.vscode/images/Pricing.png)
-
-### Reviews
-![Reviews](./.vscode/images/Reviews.png)
-
-### Get Started
-![Get Started](./.vscode/images/Get%20Started.png)
-
-### Blogs
-![Blogs](./.vscode/images/Blogs.png)
 
 ## Quick Start
 
